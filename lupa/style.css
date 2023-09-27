@@ -23,6 +23,10 @@ body {
   /* Tamanho máximo de largura */
   --maxHeight: 200px;
   /* Tamanho máximo de altura */
+  --imgWidth: 500px;
+  --imgHeight: 500px;
+  --imgBorder: 10px;
+  --glassRadius: 60px;
 }
 
 #image {
